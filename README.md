@@ -168,8 +168,8 @@ docker run --rm -it \
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
-    cd <your-repository>
+    git clone https://github.com/bachan25/edge-guardian.git
+    cd edge-guardian
     ```
 
 2.  **Install NPM packages:**
