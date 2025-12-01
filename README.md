@@ -137,10 +137,9 @@ https://www.kaggle.com/datasets/phylake1337/fire-dataset
 
 ---
 ## Architecture and Flow 
-<img width="2144" height="593" alt="Edge Guardian Flow" src="https://github.com/user-attachments/assets/db1f7cd5-601b-4fe6-b729-fc26120c3afa" />
+<img width="1600" height="545" alt="Edge Guardian Architecture " src="https://github.com/user-attachments/assets/5fc37442-83d4-446e-9376-6a345d0d933d" />
 
-<img width="1600" height="545" alt="Edge Guardian Architecture " src="https://github.com/user-attachments/assets/f86c4b33-83f3-4620-8e3e-a68e74f508fa" />
-
+<img width="2144" height="593" alt="Edge Guardian Flow" src="https://github.com/user-attachments/assets/ed66b165-3f71-4e40-9dcd-a0e501229205" />
 
 
 ## Getting Started
@@ -213,18 +212,17 @@ docker run --rm -it \
     This will start the Genkit inspector on [http://localhost:4000](http://localhost:4000), where you can view your AI flows and traces.
     
 ## Application 
+<img width="2864" height="1626" alt="home-page" src="https://github.com/user-attachments/assets/51473916-e5bb-44f0-b3b6-c98166dcbd19" />
 
-<img width="2864" height="1626" alt="home-page" src="https://github.com/user-attachments/assets/bff5ee10-12cc-457c-9f23-c9c480e7ddb6" />
+<img width="2868" height="1625" alt="incident_output_report_page" src="https://github.com/user-attachments/assets/f67743af-4534-4798-8007-ef259b3ffc89" />
 
-<img width="2868" height="1625" alt="incident_output_report_page" src="https://github.com/user-attachments/assets/b62bae1b-6f47-40b2-8e6f-d37d6bf15eed" />
+<img width="2356" height="1524" alt="local-access-edge-impulse-project" src="https://github.com/user-attachments/assets/da5fea60-312d-4eb2-b447-4c17b46d3268" />
 
-<img width="2356" height="1524" alt="local-access-edge-impulse-project" src="https://github.com/user-attachments/assets/88ef9163-378b-40a8-99b9-1af7bbfddd81" />
+<img width="2879" height="1545" alt="road_incident_mail" src="https://github.com/user-attachments/assets/4658cb92-6de2-4bb0-866e-ef472d6c3472" />
 
-<img width="2879" height="1545" alt="road_incident_mail" src="https://github.com/user-attachments/assets/c021b5e8-ee4f-40b3-b865-e0b2ba1b9f7e" />
+<img width="2874" height="1636" alt="road_incident_output_report_page" src="https://github.com/user-attachments/assets/feb33e21-9421-4291-bfcf-11ab5d14b122" />
 
-<img width="2874" height="1636" alt="road_incident_output_report_page" src="https://github.com/user-attachments/assets/25d6764b-68b7-4b13-923d-24a0180ae7fe" />
-
-<img width="2879" height="1709" alt="edge-impulse-model-docker-deployment" src="https://github.com/user-attachments/assets/559093b1-0406-4020-aa15-ef82d4d88725" />
+<img width="2879" height="1709" alt="edge-impulse-model-docker-deployment" src="https://github.com/user-attachments/assets/9c475652-b815-43ea-9ad4-3fd8a3fd8005" />
 
 
 ## **Conclusion**
