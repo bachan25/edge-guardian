@@ -1,0 +1,32 @@
+{
+  "placeholderImages": [
+    {
+      "id": "fire-1",
+      "description": "Building engulfed in flames at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1446825597988-2bb4dfd264ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidWlsZGluZyUyMGZpcmV8ZW58MHx8fHwxNzY0NTAzMjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "building fire",
+      "emergencyType": "fire"
+    },
+    {
+      "id": "accident-1",
+      "description": "Multi-car pile-up on a wet highway.",
+      "imageUrl": "https://images.unsplash.com/photo-1597328290883-50c5787b7c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXIlMjBhY2NpZGVudHxlbnwwfHx8fDE3NjQ1MDMyMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car accident",
+      "emergencyType": "road accident"
+    },
+    {
+      "id": "fire-2",
+      "description": "Wildfire approaching a residential area.",
+      "imageUrl": "https://images.unsplash.com/photo-1735795798513-a0a1d0036710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3aWxkZmlyZSUyMGhvdXNlc3xlbnwwfHx8fDE3NjQ1MDMyMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildfire houses",
+      "emergencyType": "fire"
+    },
+    {
+      "id": "accident-2",
+      "description": "Overturned truck on a rural road.",
+      "imageUrl": "https://images.unsplash.com/photo-1712003420162-c70e6b9d25cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cnVjayUyMG92ZXJ0dXJuZWR8ZW58MHx8fHwxNzY0NTAzMjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "truck overturned",
+      "emergencyType": "road accident"
+    }
+  ]
+}
